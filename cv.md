@@ -28,6 +28,5 @@ alert( arr );</code></li>
 <li>I'm currently taking courses in RS School</li>
   
   
-  
 <li>Level at the moment - A2. I take courses to improve the level of English</li>
 </ol>
