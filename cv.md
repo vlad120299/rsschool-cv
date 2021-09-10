@@ -3,7 +3,6 @@
   
 
 <li>EMAIL: splash120299@mail.ru 
-  
   Phone: +37529 577-07-39 (MTS)</li>
   
   
