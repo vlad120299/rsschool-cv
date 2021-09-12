@@ -1,5 +1,5 @@
 <ol>
-<li>Vladislav Sploshnoy</li>
+<li>Splashny Uladzislau</li>
   
 
 <li>EMAIL: splash120299@mail.ru 
