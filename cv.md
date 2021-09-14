@@ -5,10 +5,9 @@
       <li><i><b>EMAIL:</b></i><b>splash120299@mail.ru</b></li>
       <li><i><b>Phone:</b></i><b>+37529 577-07-39 (MTS)</b></li>
       <li><i><b>GitHub:<b></i><b>vlad120299</b></li>
-    </ul>
-  </li><br><br>
+    </ul><br><br>
   <li><i>Hi, my name's Vlad, I'm 22 years old. Graduated from high school in 2016. Purpose: Become Front-End developer. The priority is constant growth and development. I quickly absorb new information</i></li><br><br>
-  <li><b>HTML, CSS, Git, theoretical knowledge JS</b></li><br><br>
+  <li><b>HTML, CSS, Git, theoretical knowledge JS</b></li><br>
   <li><code><pre>function filterRange(arr, a, b) {
                     return arr.filter(item => (a <= item && item <= b));
                                   }
