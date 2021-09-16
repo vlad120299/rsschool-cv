@@ -125,4 +125,10 @@ footer {
     .myImg {
         width: 30%;
     }
+    .layout {
+        width: 60em;
+    }
+    body {
+        width: 65em;
+    }
 }
